@@ -1,0 +1,15 @@
+C:\Users\Felix\Desktop\Scrapping\Scrapping\bin\Release\Scrapping.exe.config
+C:\Users\Felix\Desktop\Scrapping\Scrapping\bin\Release\Scrapping.exe
+C:\Users\Felix\Desktop\Scrapping\Scrapping\bin\Release\Scrapping.pdb
+C:\Users\Felix\Desktop\Scrapping\Scrapping\bin\Release\HtmlAgilityPack.dll
+C:\Users\Felix\Desktop\Scrapping\Scrapping\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Felix\Desktop\Scrapping\Scrapping\bin\Release\HtmlAgilityPack.xml
+C:\Users\Felix\Desktop\Scrapping\Scrapping\obj\Release\Scrapping.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\Scrapping\Scrapping\obj\Release\Scrapping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felix\Desktop\Scrapping\Scrapping\obj\Release\Scrapping.Form1.resources
+C:\Users\Felix\Desktop\Scrapping\Scrapping\obj\Release\Scrapping.Properties.Resources.resources
+C:\Users\Felix\Desktop\Scrapping\Scrapping\obj\Release\Scrapping.csproj.GenerateResource.cache
+C:\Users\Felix\Desktop\Scrapping\Scrapping\obj\Release\Scrapping.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\Scrapping\Scrapping\obj\Release\Scrapping.csproj.CopyComplete
+C:\Users\Felix\Desktop\Scrapping\Scrapping\obj\Release\Scrapping.exe
+C:\Users\Felix\Desktop\Scrapping\Scrapping\obj\Release\Scrapping.pdb
